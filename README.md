@@ -9,7 +9,7 @@
     <a href="https://brky.ai">
       <img src="https://img.shields.io/badge/PORTFOLIO-brky.ai-blue?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Website" />
     </a>
-    <a href="https://linkedin.com/in/berkayyilmaz">
+    <a href="https://linkedin.com/in/berkayilmaaz">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:contact@brky.ai">
