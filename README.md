@@ -1,23 +1,26 @@
 <div align="center">
-  <a href="https://brky.ai">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Berkay%20Yılmaz&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Physics%20Graduate%20%7C%20Researcher&descAlignY=55&descAlign=50" alt="Berkay Yılmaz Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=220&section=header&text=Berkay%20Yılmaz&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Physics%20Graduate%20%7C%20Researcher&descAlignY=60&descAlign=50" alt="Berkay Yılmaz Header" />
+  
+  <br /> <br />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Simulating+the+Universe+with+Code.;Building+High-Performance+ML+Systems.;Bridging+Physics+and+Data+Science." alt="Typing SVG" />
   </a>
 
-  ### ⚡ "Simulating complex realities with simple code."
+  <br /> <br />
 
   <p align="center">
     <a href="https://brky.ai">
-      <img src="https://img.shields.io/badge/PORTFOLIO-brky.ai-blue?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/ENTER_WORKSTATION-brky.ai-0ea5e9?style=for-the-badge&logo=windows95&logoColor=white&labelColor=1e293b" alt="Website" />
     </a>
     <a href="https://linkedin.com/in/berkayilmaaz">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" alt="LinkedIn" />
     </a>
     <a href="mailto:contact@brky.ai">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" alt="Email" />
     </a>
   </p>
 </div>
-
 ---
 
 ### 👨‍💻 About Me
