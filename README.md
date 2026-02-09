@@ -1,38 +1,61 @@
-<h1 align="center">Hi! I'm Berkay</h1>
+<div align="center">
+  <a href="https://brky.ai">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Berkay%20Yılmaz&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Physics%20Graduate%20%7C%20Researcher&descAlignY=55&descAlign=50" alt="Berkay Yılmaz Header" />
+  </a>
 
-###
+  ### ⚡ "Simulating complex realities with simple code."
 
-<h3 align="left">About Me</h3>
-
-###
-
-<p align="left">I am currently pursuing a bachelor's degree in physics and have a profound interest in modeling and simulating physical systems. This field allows me to reinforce my theoretical knowledge through practical applications and to gain a better understanding of the complex phenomena of the universe. Additionally, I have a deep interest in machine learning and deep learning algorithms, especially in their applications in the field of finance. I am always eager to collaborate on the most advanced projects in these areas. My education aids me in understanding both the theoretical and practical aspects of machine learning and data science. I possess a strong foundation in mathematics, statistics, and logic, which greatly contributes to my implementations in software development projects.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <p align="center">
+    <a href="https://brky.ai">
+      <img src="https://img.shields.io/badge/PORTFOLIO-brky.ai-blue?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://linkedin.com/in/berkayyilmaz">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:contact@brky.ai">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
-###
+---
 
-<h3 align="left">My Stats :</h3>
+### 👨‍💻 About Me
 
-###
+I am a **Physics Graduate** passionate about bridging the gap between theoretical physics and artificial intelligence. My work focuses on **mathematical modeling**, **simulation**, and **deep learning** to solve real-world problems.
+
+- 🔭 I’m currently working on **Drone Swarm Algorithms with GNNs** & **Financial Strategy Simulations**.
+- 🚀 I specialize in **High-Performance Computing (CUDA)** and **Physics-Informed Neural Networks**.
+- 🎓 **Background:** Physics (B.Sc.) - Strong foundation in Linear Algebra, Statistics, and Numerical Methods.
+- ⚡ **Goal:** To engineer intelligent systems that understand the physical world.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkayilmaaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayilmaaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+| **Core Domain** | **Languages & Tools** |
+| :--- | :--- |
+| **🤖 AI & ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| **⚛️ Physics & Sim** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![Matlab](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white) |
+| **💻 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **🌐 Web & Tools** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
 </div>
 
-###
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=berkayilmaaz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayilmaaz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://brky.ai">
+    <img src="https://img.shields.io/badge/Check_Out_My_Interactive_Workstation-brky.ai-0ea5e9?style=for-the-badge&logo=windows95&logoColor=white" alt="Portfolio Link" />
+  </a>
+</div>
